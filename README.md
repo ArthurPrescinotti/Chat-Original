@@ -1,5 +1,5 @@
 # Chat-Original
-Chat criado em React-Native
+Chat criado em React-Native com Api Spring Boot 
 
 ## Passo a Passo de como rodar o programa
  1. Passo: Verificar se o MongoDB, Java e React está instalado na maquina.  
