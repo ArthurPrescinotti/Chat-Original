@@ -11,8 +11,6 @@ Chat criado em React-Native
     - npx expo install react-dom react-native-web @expo/metro-runtime (se necessário)
     - npm expo start.  
 
-## Passo a Passo de como rodar o programa
-
 ### EndPoints:
 
 http://localhost:8090/projeto/api/v1/chat
